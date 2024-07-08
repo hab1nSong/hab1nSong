@@ -3,8 +3,10 @@
   <img src="https://github.com/hab1nSong/hab1nSong/assets/93114062/6681f36e-881e-4119-a2f9-1f6294057df2"/>
 </div>
 
-<h3 align="center"></h3>
-<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507/>
+<h3 align="center">백준</h3>
+<div align="center">
+<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507"/></a>
+</div>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
