@@ -6,8 +6,8 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
  
-  <a href="[https://velog.io/@oka1313](https://ssongforyou.tistory.com)">
-    <img src="[https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white](https://github-readme-tistory-card.vercel.app/api/badge?name=tstory)" />&nbsp
+  <a href="https://ssongforyou.tistory.com">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory" />&nbsp
   </a>
   <a href="mailto:gkqls0835@gmail.com">
     <img
