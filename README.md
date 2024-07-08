@@ -1,8 +1,12 @@
-<!-- 1. Initial screen -->
+<!-- Initial screen -->
 <div align="center">
   <img src="https://github.com/hab1nSong/hab1nSong/assets/93114062/6681f36e-881e-4119-a2f9-1f6294057df2"/>
 </div>
 
+<h3 align="center"></h3>
+<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/thdgkqls0507/>
+
+<!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://ssongforyou.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://ssongforyou.tistory.com/"/></a>
