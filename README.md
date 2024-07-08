@@ -13,9 +13,10 @@
 </div>
 
 <h3 align="center">⚡ algorithm ⚡</h3>
-
+<div align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507)](https://solved.ac/thdgkqls0507/)
-
+</div>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
