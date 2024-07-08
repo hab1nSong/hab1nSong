@@ -10,6 +10,7 @@
 ![JSP](https://img.shields.io/badge/JSP-7B16FF.svg?&style=for-the-badge&logo=JSP&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 </div>
 
 <h3 align="center">⚡ algorithm ⚡</h3>
