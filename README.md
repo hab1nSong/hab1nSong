@@ -5,16 +5,20 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://ssongforyou.tistory.com">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory"/>
+ 
+  <a href="https://velog.io/@oka1313">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:gkqls0835@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com"/>
+  <a href="mailto:oka1313@gmail.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 <!--
 **hab1nSong/hab1nSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <a href="https://ssongforyou.tistory.com">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory"/>
+  </a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
