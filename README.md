@@ -1,6 +1,6 @@
 <!-- 1. Initial screen -->
 <div align="center">
-  ![screen](https://github.com/hab1nSong/hab1nSong/assets/93114062/582161cb-aecd-43a7-bb9d-a4b90653a682)
+  [![screen](https://github.com/hab1nSong/hab1nSong/assets/93114062/582161cb-aecd-43a7-bb9d-a4b90653a682)](https://github.com/hab1nSong/hab1nSong/issues/1#issue-2395253329)
 </div>
 
 
