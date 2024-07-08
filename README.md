@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center"></h3>
-<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/thdgkqls0507/>
+<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507/>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
