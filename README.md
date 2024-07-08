@@ -12,12 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
+<h3 align="center">⚡ algorithm ⚡</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507)](https://solved.ac/thdgkqls0507/)
 
-<h3 align="center">백준</h3>
-<div align="center">
-<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507"/></a>
-</div>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
