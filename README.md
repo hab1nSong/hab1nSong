@@ -44,7 +44,7 @@
 
 <br>
 
-<h3 align="center">⚡ algorithm ⚡</h3>
+<h3 align="center">⚡ BOJ Algorithm ⚡</h3>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507)](https://solved.ac/thdgkqls0507/)
