@@ -7,10 +7,10 @@
 <div align="center">
  
   <a href="https://ssongforyou.tistory.com">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory" />
+    <img src="https://github.com/hab1nSong/hab1nSong/assets/93114062/4a675fba-1e29-4fcb-a570-4be8b6ac427c" />
   </a>&nbsp
   <a href="mailto:gkqls0835@gmail.com">
-    <img src="https://img.shields.io/badge/gkqls0835@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=blue"/>&nbsp
+    <img src="https://img.shields.io/badge/gkqls0835@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 <!--
