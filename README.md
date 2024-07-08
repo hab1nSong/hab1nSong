@@ -6,7 +6,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://ssongforyou.tistory.com">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card" />&nbsp
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge" />&nbsp
   </a>
   <a href="mailto:gkqls0835@gmail.com">
     <img
