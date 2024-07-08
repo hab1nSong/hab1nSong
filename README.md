@@ -3,6 +3,7 @@
   <img src="https://github.com/hab1nSong/hab1nSong/assets/93114062/6681f36e-881e-4119-a2f9-1f6294057df2"/>
 </div>
 
+<!-- Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   
@@ -17,11 +18,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 </div>
 
+<br>
+
 <h3 align="center">⚡ algorithm ⚡</h3>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgkqls0507)](https://solved.ac/thdgkqls0507/)
 </div>
+
+<br>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
