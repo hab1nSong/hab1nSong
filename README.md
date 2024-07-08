@@ -1,6 +1,6 @@
 <!-- 1. Initial screen -->
 <div align="center">
-  <img src="https://github.com/hab1nSong/hab1nSong/assets/93114062/2ad9db21-38c8-486c-818f-cc57de9f55f1"/>
+  <img src="https://github.com/hab1nSong/hab1nSong/assets/93114062/eb985e95-e6a1-46dd-8cfc-2394c391fdd3"/>
 </div>
 
 
