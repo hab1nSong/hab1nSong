@@ -1,6 +1,6 @@
 <!-- 1. Initial screen -->
 <div align="center">
-  ![WelcometoSsongGit1-ezgif com-resize](https://github.com/hab1nSong/hab1nSong/assets/93114062/9dc8333b-37fc-472a-99df-a0b24215a0b0)
+  <img src="![WelcometoSsongGit1-ezgif com-resize](https://github.com/hab1nSong/hab1nSong/assets/93114062/9dc8333b-37fc-472a-99df-a0b24215a0b0)"/>
 </div>
 
 
