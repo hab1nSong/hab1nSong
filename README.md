@@ -6,7 +6,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://ssongforyou.tistory.com">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory"/>&nbsp
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory"/>
   </a>
   <a href="mailto:gkqls0835@gmail.com">
     <img src="https://img.shields.io/badge/gkqls0835@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
