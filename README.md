@@ -1,6 +1,6 @@
 <!-- 1. Initial screen -->
 <div align="center">
-  ![WelcometoSsongGit-ezgif com-video-to-gif-converter](https://github.com/hab1nSong/hab1nSong/assets/93114062/b7c18f96-e2fa-4723-bb29-8150d0a98039)
+  ![screen](https://github.com/hab1nSong/hab1nSong/assets/93114062/582161cb-aecd-43a7-bb9d-a4b90653a682)
 </div>
 
 
