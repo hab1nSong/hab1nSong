@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="![eclipseide](https://github.com/hab1nSong/hab1nSong/assets/93114062/e14a69fa-ab31-480a-8f52-ea7cb850bd6a)" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
