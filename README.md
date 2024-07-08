@@ -9,7 +9,7 @@
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=tstory"/>&nbsp
   </a>
   <a href="mailto:gkqls0835@gmail.com">
-    <img src="https://img.shields.io/badge/g-mail?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gkqls0835@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 <!--
